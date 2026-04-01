@@ -1,0 +1,9 @@
+def çıkarma(y,s):
+	return y-s
+
+def main():
+	print("Yozgat")
+	print(çıkarma(67,1))
+
+if __name__ == '__main__':
+	main()
