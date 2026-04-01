@@ -1,0 +1,9 @@
+def toplama(g,s):
+	return g+s
+
+def main():
+	print("Bozkırın tezenesi")
+	print(toplama(39,1))
+
+if __name__ == '__main__':
+	main()
