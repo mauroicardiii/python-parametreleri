@@ -1,0 +1,10 @@
+def bölme(a,b):
+	return a/b
+
+
+def main():
+	print("Kazan")
+	print(bölme(60,6))
+
+if __name__ == '__main__':
+	main()
