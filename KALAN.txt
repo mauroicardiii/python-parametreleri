@@ -1,0 +1,10 @@
+def çarpma(c,d):
+	return c*d
+
+
+def main():
+	print("ulus")
+	print(çarpma(7,8))
+
+if __name__ == '__main__':
+	main()
