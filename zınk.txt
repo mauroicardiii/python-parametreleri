@@ -1,0 +1,10 @@
+def kalan(t,r):
+	return t%r
+
+
+def main():
+	print("boztepe")
+	print(kalan (20,6))
+
+if __name__ == '__main__':
+	main()
