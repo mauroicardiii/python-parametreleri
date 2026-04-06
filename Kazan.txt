@@ -1,0 +1,10 @@
+def tam(k,z):
+	return k//z
+
+
+def main():
+	print("kahraman")
+	print(tam(100,5))
+
+if __name__ == '__main__':
+	main()
