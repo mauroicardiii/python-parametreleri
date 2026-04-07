@@ -1,0 +1,10 @@
+def üs(y,k):
+	return y**k
+
+
+def main():
+	print("Yusuuufii")
+	print(üs(5,5))
+
+if __name__ == '__main__':
+	main()
