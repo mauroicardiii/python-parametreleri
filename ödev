@@ -1,0 +1,8 @@
+def round_up(x):
+    i = int(x)
+    if x > 0 and x != i:
+        return i + 1
+    return i
+
+print(round_up(3.2))
+print(round_up(-2.3))
